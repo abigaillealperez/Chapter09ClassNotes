@@ -1,0 +1,9 @@
+C:\01ALP\Chapter09programClassDesign\Chapter09programClassDesign\obj\Debug\Chapter09programClassDesign.csprojAssemblyReference.cache
+C:\01ALP\Chapter09programClassDesign\Chapter09programClassDesign\obj\Debug\Chapter09programClassDesign.Form1.resources
+C:\01ALP\Chapter09programClassDesign\Chapter09programClassDesign\obj\Debug\Chapter09programClassDesign.Properties.Resources.resources
+C:\01ALP\Chapter09programClassDesign\Chapter09programClassDesign\obj\Debug\Chapter09programClassDesign.csproj.GenerateResource.cache
+C:\01ALP\Chapter09programClassDesign\Chapter09programClassDesign\bin\Debug\Chapter09programClassDesign.exe.config
+C:\01ALP\Chapter09programClassDesign\Chapter09programClassDesign\bin\Debug\Chapter09programClassDesign.exe
+C:\01ALP\Chapter09programClassDesign\Chapter09programClassDesign\bin\Debug\Chapter09programClassDesign.pdb
+C:\01ALP\Chapter09programClassDesign\Chapter09programClassDesign\obj\Debug\Chapter09programClassDesign.exe
+C:\01ALP\Chapter09programClassDesign\Chapter09programClassDesign\obj\Debug\Chapter09programClassDesign.pdb
